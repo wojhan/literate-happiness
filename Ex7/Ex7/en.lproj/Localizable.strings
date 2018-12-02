@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Ex7
+
+  Created by Wojciech on 04/11/2018.
+  Copyright © 2018 Wojciech. All rights reserved.
+*/
+
+"Information"="Information";
+
+"The faculty is running %i programs on graduate and undergraduate level."="The faculty is running %i programs on graduate and undergraduate level.";
+
+"image"="wi-en";
