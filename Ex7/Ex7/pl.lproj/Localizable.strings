@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Ex7
+
+  Created by Wojciech on 04/11/2018.
+  Copyright © 2018 Wojciech. All rights reserved.
+*/
+
+"Information"="Informacja";
+
+"The faculty is running %i programs on graduate and undergraduate level."="Wydział prowadzi %i programy na poziomie magisterskim i inżynierskim.";
+
+"image"="wi-pl";
